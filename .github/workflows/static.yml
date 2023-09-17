@@ -16,7 +16,5 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Replace
-        run: cp -r /home/webuser/actions-runner-blog/_work/blog/blog/ /home/webuser/blog/
       - name: Test
         run: echo "Done!"
