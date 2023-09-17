@@ -1,0 +1,6 @@
+[submodule "blog/blog/hugo-PaperMod"]
+	path = blog/blog/hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod
+[submodule "blog/blog/themes/paper"]
+	path = blog/blog/themes/paper
+	url = https://github.com/adityatelange/hugo-PaperMod

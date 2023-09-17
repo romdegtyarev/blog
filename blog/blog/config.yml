@@ -1,0 +1,57 @@
+baseURL: 'https://romdegtyarev.su/'
+languageCode: 'en-us'
+title: 'Blog'
+theme: 'paper'
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+menu:
+    main:
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+languages:
+    en:
+        languageName: ":gb:"
+        languageAltTitle: "English"
+        contentDir: content/en
+        weight: 1
+    fr:
+        languageName: ":fr:"
+        languageAltTitle: "France"
+        contentDir: content/fr
+        weight: 2
+
+params:
+    displayFullLangName: true
+    DateFormat: "Mon, 02 Jan 2006 15:04:05 MST"
+    defaultTheme: auto
+    ShowShareButtons: true
+    ShareButtons: ["linkedin", "twitter", "telegram", "reddit"]
+    ShowReadingTime: true
+    ShowCodeCopyButtons: true
+    ShowWordCount: true
+    comments: true
+
+
+    homeInfoParams:
+        Title: "My Blog"
+        Content: >
+            Welcome to my blog
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/romdegtyarev"
+
+    editPost:
+        URL: "https://github.com/<path_to_repo>/content"
+        Text: "Suggest Changes"
+        appendFilePath: true
+
