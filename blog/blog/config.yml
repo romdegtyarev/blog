@@ -28,7 +28,7 @@ languages:
         languageAltTitle: "France"
         contentDir: content/fr
         weight: 2
-    fr:
+    ru:
         languageName: ":ru:"
         languageAltTitle: "Русский"
         contentDir: content/ru
