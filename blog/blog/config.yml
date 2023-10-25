@@ -28,6 +28,11 @@ languages:
         languageAltTitle: "France"
         contentDir: content/fr
         weight: 2
+    fr:
+        languageName: ":ru:"
+        languageAltTitle: "Русский"
+        contentDir: content/ru
+        weight: 3
 
 params:
     displayFullLangName: true
