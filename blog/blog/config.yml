@@ -56,6 +56,6 @@ params:
           url: "https://github.com/romdegtyarev"
 
     editPost:
-        URL: "https://github.com/<path_to_repo>/content"
+        URL: "https://github.com/romdegtyarev/blog/content"
         Text: "Suggest Changes"
         appendFilePath: true
