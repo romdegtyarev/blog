@@ -20,6 +20,8 @@ jobs:
             submodules: true
       - name: Synch
         run: rsync -avzhHl /home/webuser/actions-runner-blog/_work/blog/blog/blog/blog/content /home/webuser/blog/blog
+      - name: Synch Static
+        run: rsync -avzhHl /home/webuser/actions-runner-blog/_work/blog/blog/blog/blog/static /home/webuser/blog/blog
       - name: Test
         run: echo "Done!"
 
