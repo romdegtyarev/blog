@@ -10,10 +10,6 @@ tags: ["List"]
 
 0. Lego  
 
-1. Лампа  
-![Лампа](/images/1.jpeg)  
-[Ozon](https://www.ozon.ru/product/svetilnik-nastolnyy-transformer-konstruktor-stevie-4-varianta-v-odnom-komplekte-astocrystall-origi-502002842/?asb=dMgsPOT1ji82alU8C-TeRXGupACqzCh1NxDEn1JxOGyjbIW0UVnIQotPvAs-du8yfiAPhwrGDXCBkiLZM32XpAGDIHmKRBH0FAF4KWYpn4ePJ09CKeHikfRKtnDSylR-C-mew-mm5PoykV63ttVpeACOfq-Z9g&avtc=1&avte=4&avts=1703842727)  
-
 2. Метроном  
 ![Метроном](/images/2.jpg)  
 
@@ -24,12 +20,6 @@ tags: ["List"]
 ![Кофемолка старая](/images/4.jpg)  
 
 5. Игла для кофе BEARR  
-[Ozon]()  
-
-6. Темпер для кофе  
-[Ozon]()  
-
-7. Питчер для молока  
 [Ozon]()  
 
 8. Морзе старая  
