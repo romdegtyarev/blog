@@ -26,6 +26,5 @@ tags: ["List"]
 12. Мерч PinkFloyd
 13. Мерч Антихайп
 14. Eilik
-15. Apple HomePod
-16. Часы Garmin Instinct 2 Solar
-17. Тиски  
+15. Часы Garmin Instinct 2 Solar
+16. Тиски  
