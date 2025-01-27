@@ -21,10 +21,6 @@ tags: ["List"]
 ![Весы старые](/images/9.jpg)  
 8. Лампа керосиновая старая  
 ![Лампа керосиновая](/images/10.jpg)  
-9. Керосиновая зажигалка ZIPPO
 11. Мерч Blackpink
 12. Мерч PinkFloyd
 13. Мерч Антихайп
-14. Eilik
-15. Часы Garmin Instinct 2 Solar
-16. Тиски  
